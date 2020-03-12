@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "demo": "postcss hello.css --config ./ --dir ./build",
-    "call-by-js": "node postcss-with-config.js"
+    "demo": "postcss hello.css --config ./ --dir ./build"
   },
   "devDependencies": {
     "autoprefixer": "9.1.5",
